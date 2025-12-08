@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey! I am Angel 👋
 
-<!--
-**AngelM-delRio/AngelM-delRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const angelMarcial = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "networks", "tech"],
+    technologies: {
+        code: ["Java", "Python", "SQL"],
+        networking: ["Cisco", "TCP/IP", "Sockets"],
+        design: ["Figma", "UI/UX", "Wireframing"],
+        tools: ["Git", "GitHub", "Linux"],
+        currentProject: ["UniByC"]
+    }
+}
+```
