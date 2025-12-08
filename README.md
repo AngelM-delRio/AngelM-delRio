@@ -13,3 +13,7 @@ const angelMarcial = {
     }
 }
 ```
+<br>
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=AngelM-delRio&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=AngelM-delRio&show_icons=true&theme=tokyonight&hide_border=true)" height="150" alt="stats" />
+</div>
