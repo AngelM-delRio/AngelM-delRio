@@ -14,6 +14,8 @@ const angelMarcial = {
 }
 ```
 <br>
+<h3 align="center">📊 Mis Estadísticas</h3>
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=AngelM-delRio&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=AngelM-delRio&show_icons=true&theme=tokyonight&hide_border=true)" height="150" alt="stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=AngelM-delRio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=AngelM-delRio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" height="150" alt="stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AngelM-delRio&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelM-delRio&layout=compact&theme=tokyonight&hide_border=true)" height="150" alt="languages" />
 </div>
