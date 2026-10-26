@@ -1,15 +1,14 @@
-## Hey! I am Angel 👋
+# ¡Hola! Soy Ángel 👋
 
-```javascript
-const angelMarcial = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "networks", "tech"],
-    technologies: {
-        code: ["Java", "Python", "SQL"],
-        networking: ["Cisco", "TCP/IP", "Sockets"],
-        design: ["Figma", "UI/UX", "Wireframing"],
-        tools: ["Git", "GitHub", "Linux"],
-        currentProject: ["UniByC"]
-    }
-}
-```
+Estudiante de Ingeniería en Computación en la UAM Cuajimalpa. Me interesa el desarrollo de aplicaciones, las redes y la tecnología.
+
+## Tecnologías
+- **Lenguajes:** Java, Python, JavaScript, SQL
+- **Web y móvil:** React, Node.js, Express, Flutter
+- **Redes:** TCP/IP, sockets, conceptos de Cisco
+- **Diseño:** Figma, UI/UX, wireframing
+- **Herramientas:** Git, GitHub, Linux, Postman, Jira
+
+## Proyecto actual
+🚀 **UniBuyC**: marketplace universitario web y móvil
+
